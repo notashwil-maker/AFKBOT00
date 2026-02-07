@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "maxtikhorbot", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "MoujMaxti.aternos.me", 
+    "port": 55929,   
+    "version": "1.12.2"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": false,
+      "repeat-delay": 300,
+
+      "messages": [
+      "ez"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
