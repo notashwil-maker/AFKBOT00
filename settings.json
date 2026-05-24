@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "MoujMaxti.aternos.me", 
-    "port": 55929,   
+    "ip": "bigdih00.aternos.me", 
+    "port": 37894,   
     "version": "1.12.2"   
   },
   
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "696969"
     },
 
     "anti-afk": {
